@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔨 Software Engineer
+- 🏫 Junior studying Computer Science at Harvard
   
 
 <!--
