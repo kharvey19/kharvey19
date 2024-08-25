@@ -1,5 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on computer vision projects
+🔭 I’m currently working on computer vision projects 
+
 🏫 I am a computer scientist at Harvard!
   
 
