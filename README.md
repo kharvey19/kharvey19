@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on computer vision projects
+🏫 I am a computer scientist at Harvard!
+  
 
 <!--
 **kharvey19/kharvey19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
